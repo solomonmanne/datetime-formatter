@@ -1,0 +1,27 @@
+{
+  "name": "datetime-formatter",
+  "version": "1.0.0",
+  "description": "This package is intended to format datetime to different desirable formats for users and businesses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "datetime",
+    "date",
+    "time",
+    "format",
+    "formatter",
+    "AM",
+    "PM",
+    "hour",
+    "minute",
+    "seconds",
+    "milliseconds",
+    "days",
+    "months",
+    "year"
+  ],
+  "author": "Adam Solomon and Trevor Manne",
+  "license": "MIT"
+}
